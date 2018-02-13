@@ -1,0 +1,34 @@
+src/*.exe
+src/cypherium
+src/cypheriumd
+src/test_cypherium
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.cypherium
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+cypherium-qt
+Cypherium-Qt.app
+
+# Unit-tests
+Makefile.test
+cypherium-qt_test
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+
+!src/leveldb*/Makefile
