@@ -1,4 +1,4 @@
-Cypherium integration/staging tre
+Cypherium integration/staging tree
 ================================
 
 http://www.cypherium.io
